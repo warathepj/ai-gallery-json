@@ -1,0 +1,16 @@
+{
+    "images-list": [
+        {
+            "path": "fri12.jpeg",
+            "prompt": "Corgi on beach.",
+            "tag": ["corgi", "dog", "animal", "beach", "bluesky"]
+      
+          },
+          {
+            "path": "fri13.jpeg",
+            "prompt": "Corgi on beach.",
+            "tag": ["landscape", "bluesky"]
+      
+          }
+    ]
+}
